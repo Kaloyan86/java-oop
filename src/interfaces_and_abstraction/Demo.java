@@ -11,8 +11,14 @@ public class Demo {
         pay(cardPayment, amount);
         pay(new RevolutPayment(), amount);
 
+        pay(amount);
     }
-    static void pay(Payment payment, int amount){
+
+    static void pay(Payment payment, int amount) {
         payment.pay(amount);
+    }
+
+    static void pay(int amount) {
+        System.out.println(amount);
     }
 }
