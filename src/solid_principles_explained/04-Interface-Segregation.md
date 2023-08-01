@@ -1,4 +1,3 @@
-[slide]
 
 # Interface Segregation
 
@@ -88,4 +87,3 @@ public class Robot implements Worker {​
 
 ​
 
-[/slide]

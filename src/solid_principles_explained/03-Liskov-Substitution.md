@@ -1,4 +1,3 @@
-[slide]
 
 # Liskov Substitution
 
@@ -141,4 +140,3 @@ public class ElectricCar implements ElectricVehicle{
 
 Thus our **MotorCar** and **ElectricCar** classes become **more specialized** while **adhering to the Liskov Substitution Principle.**
 
-[/slide]

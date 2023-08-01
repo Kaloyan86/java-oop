@@ -1,4 +1,3 @@
-[slide]
 
 # Open Closed Principle
 
@@ -149,7 +148,3 @@ By using the **Open-Closed principle**, we can add a square's area **without mod
 Applying **Open-Closed principle** to our projects limits the need to change source code once it has been written, tested and debugged.
 
 This **reduces the risk of introducing new bugs** to existing code, leading to more robust software.
-
-
-
-[/slide]

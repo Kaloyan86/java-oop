@@ -1,7 +1,5 @@
 # SOLID Principles
 
-[slide]
-
 # SOLID Principles Overview
 
 In Java, the classes are the **building blocks** of any application. 
@@ -25,11 +23,3 @@ When applied properly it makes your code more **extendable**, **logical** and **
 - **L** – **Liskov substitution** principle – objects should be replaceable with instances of their subtypes without altering the correctness of that program
 - **I** – **Interface segregation** principle – many specific interfaces are better than one general interface
 - **D** – **Dependency inversion** principle – one should depend upon abstractions, not concretions
-
-In the following Lesson, we'll take a deep dive into what each of these principles means.
-
-
-
-
-
-[/slide]

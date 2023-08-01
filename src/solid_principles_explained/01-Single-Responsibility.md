@@ -1,4 +1,3 @@
-[slide]
 
 # Single Responsibility
 
@@ -66,5 +65,3 @@ The key is that the code that is inside the class must be **directly related to 
 It is good practice to **write methods that are accurate**, **concise**, and **to the point as possible**, although in some situations it is normal to have to write more lines of code inside the methods. 
 
 Thanks to the **Single Responsibility principle**, we can easily detect and eliminate bugs in the software.​
-
-[/slide]

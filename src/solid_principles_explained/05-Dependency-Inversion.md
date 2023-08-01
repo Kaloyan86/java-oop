@@ -1,4 +1,3 @@
-[slide]
 
 # Dependency Inversion
 
@@ -115,10 +114,3 @@ public class Main {
 The design above allows a **Button** to control any device that is willing to implement the **SwitchableDevice** interface. 
 
 It also means that **Button** will be **able to control objects** that have **not yet been invented**, and this makes the application **more flexible**.
-
-
-
-
-
-
-[/slide]
